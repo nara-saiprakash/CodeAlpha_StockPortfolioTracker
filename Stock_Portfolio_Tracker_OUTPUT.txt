@@ -1,0 +1,16 @@
+Welcome to the Stock Portfolio Tracker
+Available stocks: AAPL, TSLA, GOOGL, MSFT, AMZN
+Enter stock symbol (or type 'done' to finish): AAPL
+Enter quantity for AAPL: 2
+Enter stock symbol (or type 'done' to finish): TSLA
+Enter quantity for TSLA: 3
+Enter stock symbol (or type 'done' to finish): done
+
+Your Portfolio Summary:
+- AAPL: 2 shares x ₹180 = ₹360
+- TSLA: 3 shares x ₹250 = ₹750
+
+Total Investment Value: ₹1110
+Do you want to save this to a file? (yes/no): yes
+Portfolio saved to 'portfolio_summary.txt'.
+Thank you for using the Stock Portfolio Tracker!
