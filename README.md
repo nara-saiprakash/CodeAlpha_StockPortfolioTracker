@@ -23,5 +23,4 @@ A simple Python CLI tool to manage and track your stock investments using predef
 ## ▶️ How to Run
 1. Make sure Python is installed on your system.
 2. Run the script in your terminal or VS Code:
-   ```bash
-   python portfolio_tracker.py
+
